@@ -2,7 +2,6 @@
 
 **`Desenvolvedor FullStack`**
 
-
 # Sobre mim
 
 Olá! meu nome é Derik Salomão, tenho 20 anos e sou graduado em Análise e Desenvolvimento de Sistemas. Focado principalmente em Back-End, trabalho continuamente para soluções internas em ambiente profssional, sempre procurando meios de tornar a experiência do usuário da melhor forma possível!
