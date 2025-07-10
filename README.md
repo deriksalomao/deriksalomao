@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, sou o Derik Salomão</h1>
-<h3 align="center">Um desenvolvedor Full Stack</h3>
+<h1 align="center">Olá 👋, me chamo Derik Salomão</h1>
+<h3 align="center">Desenvolvedor Full Stack</h3>
 
 <p align="center">Atualmente me dedicando ao desenvolvimento de aplicações com React, Next.js, Node.js e .NET.</p>
 
@@ -35,9 +35,9 @@
 ### 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deriksalomao&show_icons=true&theme=dracula&locale=pt-br" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deriksalomao&theme=dracula" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=deriksalomao&theme=dracula&margin-w=8&margin-h=8" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deriksalomao&show_icons=true&theme=tokyonight&locale=pt-br" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deriksalomao&theme=tokyonight" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=deriksalomao&theme=tokyonight&margin-w=8&margin-h=8" height="150" />
 </div>
 
 ---
@@ -56,10 +56,10 @@
   <a href="https://github.com/deriksalomao" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://www.linkedin.com/in/derik-salomao/" target="_blank">
+  <a href="https://www.linkedin.com/in/derik-salomão/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="mailto:deriksalomaodev@gmail.com" target="_blank">
+  <a href="mailto:contatoderiktorres@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
