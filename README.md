@@ -46,16 +46,8 @@
 
 ### 🌐 Conecte-se comigo!
 
-
-
 <div align="center">
-  <a href="https://github.com/deriksalomao" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://www.linkedin.com/in/derik-salomão/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="mailto:contatoderiktorres@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="25" />
-  </a>
+  <a href="https://github.com/deriksalomao" target="_blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/derik-salomao/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn"/></a>
+  <a href="mailto:deriksalomaodev@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="25" alt="Gmail"/></a>
 </div>
