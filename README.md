@@ -1,106 +1,65 @@
-# 👨🏻‍💻 Derik Belchior
+<h1 align="center">Olá 👋, sou o Derik Salomão</h1>
+<h3 align="center">Um desenvolvedor Full Stack</h3>
 
-**`Desenvolvedor FullStack`**
+<p align="center">Atualmente me dedicando ao desenvolvimento de aplicações com React, Next.js, Node.js e .NET.</p>
 
-# Sobre mim
+---
 
-Olá! meu nome é Derik Salomão, tenho 20 anos e sou graduado em Análise e Desenvolvimento de Sistemas. Focado principalmente em Back-End, trabalho continuamente para soluções internas em ambiente profssional, sempre procurando meios de tornar a experiência do usuário da melhor maneira possível!
+### 💡 Sobre mim
 
-## 🤖 Linguagens e Tecnologias
+- 🔭 Trabalhando com **Desenvolvimento Full Stack com foco em JavaScript e C#**
+- 🌱 Aprendendo mais sobre **Arquitetura de Software**, **DevOps** e **Cloud**
+- 👯 Buscando colaborar em projetos com **React, Node.js e .NET**
+- 🤝 Aberto a contribuições em **projetos open-source inovadores**
+- 💬 Me pergunte sobre **React**, **Next.js**, **Node.js**, **C# .NET**
+- 📫 Contato: **(Você pode adicionar o e-mail de contato do Derik aqui)**
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-<img 
-    align="left" 
-    alt="DotNetCore" 
-    title="DotNetCore"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
-/>
+---
 
-<br/>
-<br/>
+### 🧰 Tecnologias que uso
 
-## 📊 Estatísticas
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="background-color: white; border-radius: 50%;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+</div>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=deriksalomao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deriksalomao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### 📊 Estatísticas GitHub
 
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deriksalomao&show_icons=true&theme=dracula&locale=pt-br" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deriksalomao&theme=dracula" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=deriksalomao&theme=dracula&margin-w=8&margin-h=8" height="150" />
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deriksalomao/deriksalomao/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deriksalomao/deriksalomao/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/deriksalomao/deriksalomao/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+### 🌐 Conecte-se comigo
+
+<div align="center">
+  <a href="https://github.com/deriksalomao" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://www.linkedin.com/in/derik-salomao/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="mailto:deriksalomaodev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+</div>
