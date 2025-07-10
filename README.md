@@ -12,7 +12,7 @@
 - 👯 Buscando colaborar em projetos com **React, Node.js e .NET**
 - 🤝 Aberto a contribuições em **projetos open-source inovadores**
 - 💬 Me pergunte sobre **React**, **Next.js**, **Node.js**, **C# .NET**
-- 📫 Contato: **(Você pode adicionar o e-mail de contato do Derik aqui)**
+- 📫 Contato: contatoderiktorres@gmail.com
 
 ---
 
