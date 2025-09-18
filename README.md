@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, me chamo Derik Salomão</h1>
-<h3 align="center">Desenvolvedor Full Stack</h3>
+<h3 align="center">Analista de Sistemas</h3>
 
-<p align="center">Atualmente trabalho profissionalmente com Suporte a Usuário de nível N1 e N2.</p>
+<p align="center">Atualmente trabalho profissionalmente com Suporte a Usuário de nível N1 e N2</p>
 
 ---
 
 ### 💡 Sobre mim
 
-- 🔭 Trabalhando com **Desenvolvimento Full Stack com foco em Python, JavaScript e C#**
+- 🔭 Trabalhando com **Ánalise de Dados e Infraestrutura**
 - 🌱 Aprendendo mais sobre **Arquitetura de Software**, **DevOps** e **Cloud**
 - 👯 Buscando colaborar em projetos com **React, Node.js e .NET**
 - 🤝 Aberto a contribuições em **projetos open-source inovadores**
