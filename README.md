@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Derik Salomão</h1>
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
-<p align="center">Atualmente trabalho profissionalmente com o desenvolvimento de aplicações com React, Next.js, Node.js e .NET.</p>
+<p align="center">Atualmente trabalho profissionalmente com Suporte a Usuário de nível N1 e N2.</p>
 
 ---
 
