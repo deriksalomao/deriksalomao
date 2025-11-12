@@ -7,7 +7,7 @@
 
 ### 💡 Sobre mim
 
-- 🔭 Trabalhando com **Ánalise de Dados e Infraestrutura**
+- 🔭 Trabalhando com **Ánalise de Dados, Suporte e Infraestrutura**
 - 🌱 Aprendendo mais sobre **Arquitetura de Software**, **DevOps** e **Cloud**
 - 👯 Buscando colaborar em projetos com **React, Node.js e .NET**
 - 🤝 Aberto a contribuições em **projetos open-source inovadores**
