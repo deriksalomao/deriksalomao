@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Derik Salomão</h1>
-<h3 align="center">Analista de Sistemas;Suporte Técnico</h3>
+<h3 align="center">Analista de Sistemas/Suporte Técnico</h3>
 
 <p align="center">Atualmente trabalho profissionalmente com Suporte a Usuário de nível N1 e N2</p>
 
