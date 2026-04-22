@@ -54,9 +54,9 @@
 ### 📊 GitHub statistics!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deriksalomao&show_icons=true&theme=tokyonight&locale=pt-br" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deriksalomao&theme=tokyonight&locale=pt-br" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=deriksalomao&theme=tokyonight&margin-w=8&margin-h=8&locale=pt-br" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deriksalomao&show_icons=true&theme=tokyonight&locale=en" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deriksalomao&theme=tokyonight&locale=en" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=deriksalomao&theme=tokyonight&margin-w=8&margin-h=8&locale=en" height="150" />
 </div>
 
 ---
