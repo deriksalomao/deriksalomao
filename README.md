@@ -1,7 +1,7 @@
-<h1 align="center">Olá 👋, me chamo Derik Salomão</h1>
-<h3 align="center">Analista de Tecnologias/Suporte Técnico</h3>
+<h1 align="center">Hi 👋, my name is Derik Salomão</h1>
+<h3 align="center">Technology Analyst/Technical Support</h3>
 
-<p align="center">Atualmente trabalho profissionalmente com Suporte a Usuário de nível N1 e N2</p>
+<p align="center">I currently work professionally in User Support at the N1 and N2 levels.</p>
 
 ---
 
@@ -16,18 +16,18 @@
 
 ###
 
-### 💡 Sobre mim
+### 💡 About me
 
-- 🔭 Trabalhando com **Suporte e Infraestrutura**
-- 🌱 Aprendendo mais sobre **Arquitetura de Software**, **DevOps** e **Cloud**
-- 👯 Buscando colaborar em projetos com **React, Node.js e .NET**
-- 🤝 Aberto a contribuições em **projetos open-source**
-- 💬 Me pergunte sobre **React**, **Next.js**, **Node.js**, **C# .NET**
-- 📫 Contato: contatoderiktorres@gmail.com
+- 🔭 Working with **Support and Infrastructure**
+- 🌱 Learning more about **Software Architecture**, **DevOps**, and **Cloud**
+- 👯 Seeking to collaborate on projects with **React, Node.js, and .NET**
+- 🤝 Open to contributions to **open-source projects**
+- 💬 Ask me about **React**, **Next.js**, **Node.js**, **C# .NET**
+- 📫 Contact: contatoderiktorres@gmail.com
 
 ---
 
-### 🧰 Tecnologias que utilizo!
+### 🧰 Technologies I use!
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -51,7 +51,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub!
+### 📊 GitHub statistics!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deriksalomao&show_icons=true&theme=tokyonight&locale=pt-br" height="150" />
@@ -61,7 +61,7 @@
 
 ---
 
-### 🌐 Conecte-se comigo!
+### 🌐 Connect with me!
 
 <div align="center">
   <a href="https://github.com/deriksalomao" target="_blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="GitHub"/></a>
